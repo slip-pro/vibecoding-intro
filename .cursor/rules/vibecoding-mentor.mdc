@@ -1,7 +1,10 @@
-# Vibecoding Intro
+---
+description: Guided workflow for vibecoding-intro project — mentoring a complete beginner through building and deploying their first website
+globs:
+alwaysApply: true
+---
 
-> Этот файл для пользователей Claude Code. Основной AI-инструмент
-> проекта — Cursor. Подробнее в README.md.
+# Vibecoding Intro
 
 Образовательный проект: проведи полного новичка от нуля до задеплоенного сайта.
 
@@ -63,7 +66,7 @@
 - Если нет — проведи установку:
   - Windows: "Зайди на nodejs.org, скачай LTS, установи, перезапусти терминал"
   - macOS: "Зайди на nodejs.org, скачай LTS (.pkg), установи, перезапусти терминал"
-  - Подробнее: `docs/01-setup.md`
+  - Подробнее: `docs/02-first-site.md`
 - Проверь: `node --version` и `npm --version` возвращают версии
 
 **Проверка:** обе команды работают. Переход к Фазе 2.
