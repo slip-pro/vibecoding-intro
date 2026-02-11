@@ -280,7 +280,7 @@ AI-помощник найдёт всё необходимое чтобы вес
 3. Начни набирать **"Git: Clone"** и выбери эту команду из списка
 4. В появившееся поле вставь ссылку:
    ```
-   [https://github.com/TODO/vibecoding-intro.git](https://github.com/slip-pro/vibecoding-intro)
+   [https://github.com/slip-pro/vibecoding-intro](https://github.com/slip-pro/vibecoding-intro)
    ```
 5. Выбери папку на компьютере куда сохранить проект
    (например, `D:\Projects` или `Документы`)
