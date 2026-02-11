@@ -61,6 +61,21 @@ Vibecoding Intro -- открытый образовательный проект
 | Домен | ~800 руб/год | Адрес сайта (Selectel) |
 | VPS | ~500 руб/мес | Сервер (Selectel) |
 
+> **Про модели:** в бесплатном Copilot доступен Claude Haiku --
+> быстрая и лёгкая модель. В Pro открываются Claude Sonnet
+> (отличный баланс качества и скорости) и Claude Opus
+> (самая мощная, глубже понимает контекст и лучше менторит).
+> [Подробнее о моделях](docs/01-setup.md#шаг-221-зачем-нужен-copilot-pro)
+
+> **Другие инструменты:** курс написан для VS Code + Copilot,
+> но вайб-кодинг работает и с другими AI-редакторами:
+> [Cursor](https://cursor.com),
+> [Windsurf](https://windsurf.com),
+> [Google Antigravity](https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/),
+> [Claude Code](https://docs.anthropic.com/en/docs/claude-code),
+> [OpenCode](https://opencode.ai).
+> [Подробнее](docs/00-intro.md#другие-ai-инструменты)
+
 ## Как начать
 
 1. **Установи VS Code** --
