@@ -68,13 +68,10 @@ Vibecoding Intro -- открытый образовательный проект
 > [Подробнее о моделях](docs/01-setup.md#шаг-221-зачем-нужен-copilot-pro)
 
 > **Другие инструменты:** курс написан для VS Code + Copilot,
-> но вайб-кодинг работает и с другими AI-редакторами:
-> [Cursor](https://cursor.com),
-> [Windsurf](https://windsurf.com),
-> [Google Antigravity](https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/),
-> [Claude Code](https://docs.anthropic.com/en/docs/claude-code),
-> [OpenCode](https://opencode.ai).
-> [Подробнее](docs/00-intro.md#другие-ai-инструменты)
+> но вайб-кодинг работает в трёх "пространствах": в браузере
+> (v0, Lovable, Replit), в терминале (Claude Code, Aider)
+> и в IDE (Cursor, Windsurf, Antigravity).
+> [Подробнее](docs/00-intro.md#где-живёт-вайб-кодинг)
 
 ## Как начать
 
