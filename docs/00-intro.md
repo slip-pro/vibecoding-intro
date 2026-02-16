@@ -169,7 +169,7 @@ AI-инструменты для создания сайтов можно раз
 | [Cursor](https://cursor.com) | Форк VS Code с глубокой AI-интеграцией — **наш выбор** | Бесплатно / $20/мес |
 | [VS Code](https://code.visualstudio.com) + [Copilot](https://github.com/features/copilot) | Редактор от Microsoft + AI от GitHub (нужен VPN из России) | Бесплатно / $10/мес |
 | [Windsurf](https://windsurf.com) | AI-редактор с чистым интерфейсом | Бесплатно / $15/мес |
-| [Antigravity](https://idx.google.com) | IDE от Google на базе VS Code (Gemini) | Бесплатно |
+| [Antigravity](https://antigravity.google/download) | IDE от Google на базе Gemini 3 — щедрые лимиты (нужен иностранный Google-аккаунт из России) | Бесплатно |
 
 > **Что выбрать?**
 >
