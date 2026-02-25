@@ -1,14 +1,1 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(dir:*)",
-      "WebFetch(domain:github.com)",
-      "WebFetch(domain:raw.githubusercontent.com)",
-      "WebFetch(domain:scrumtrek.gitbook.io)",
-      "WebFetch(domain:kkts.ai)",
-      "WebFetch(domain:docs.github.com)",
-      "WebFetch(domain:code.visualstudio.com)",
-      "WebFetch(domain:antigravity.google)"
-    ]
-  }
-}
+{}
